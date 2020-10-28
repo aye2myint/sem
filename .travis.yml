@@ -1,8 +1,8 @@
 sudo: required
 
 jdk:
-  - oraclejdk10
-  - openjdk10
+  - oraclejdk7
+  - openjdk7
 
 services:
   - docker
